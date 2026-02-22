@@ -102,6 +102,7 @@ House-Price-Prediction-KNIME/
 ├── workflow/           # The exported .knwf KNIME workflow file
 ├── report/             # Full academic report (Report_Team_65.pdf)
 ├── images/             # PNG exports of key project charts
+├── environment.yml     # Conda environment file for easy project reproducibility
 └── README.md
 ```
 ## ▶️ How to Reproduce the Analysis
