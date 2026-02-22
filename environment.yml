@@ -1,0 +1,15 @@
+name: knime_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - folium
+  - scikit-learn
+  - py4j
+  - pyarrow
+  - seaborn
+  - statsmodels
+  - numpy[version='<2.0']
+  - contextily
