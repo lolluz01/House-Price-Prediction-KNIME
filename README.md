@@ -124,7 +124,7 @@ To ensure all Python dependencies (like Pandas, Scikit-Learn, Contextily, etc.) 
 * Choose `Select file:` and browse to the `workflow/` folder in this repository to select the `ML_project.knwf` file.
 * Ensure KNIME is configured to use the newly created Conda environment for any Python Integration nodes.
 * Execute all nodes.
-
+> [!NOTE]
 > **Note:** Since the workflow integrates custom Python scripts for advanced visualizations and diagnostics, ensure that the KNIME Python Integration extension is installed and configured with the libraries listed in the tech stack.
 
 ## 📄 License
