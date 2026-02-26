@@ -2,8 +2,6 @@
 
 ### A Data-Driven Approach to Real Estate Valuation in King County
 
-
-![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?logo=kaggle&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-F8D32B?logo=KNIME&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white)
 
@@ -14,6 +12,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAEE?logo=scipy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?logo=kaggle&logoColor=white)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
